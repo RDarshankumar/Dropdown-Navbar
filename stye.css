@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid black;
+    background-color: chocolate;
+}
+.nav-link {
+    color: white;
+}
+#Button{
+    color: white;
+
+}
+
+.nav-link:hover{
+    color: white;
+    background-color: rgb(175, 35, 35);
+}
+#Button:hover{
+    color: white;
+    background-color:rgb(175, 35, 35); 
+}
+.dropdown-item:hover{
+    background-color:rgb(175, 35, 35) ;
+    
+}
+.dropdown-item{
+    background-color: chocolate;
+    color: white;
+}
+
